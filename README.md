@@ -5,6 +5,11 @@ A powerful web content analyzer that scrapes any webpage, summarizes the key ins
 
 You can test it here https://huggingface.co/spaces/Deeptanush/AI-Agent
 
+You can observer how the Agent performs in the Huggingface Space Logs:
+--> Thought
+--> Action
+--> Observation
+
 ![Agent Preview](https://github.com/deep200315/AI-Agent-/blob/main/Screenshot.png)
 ---
 
