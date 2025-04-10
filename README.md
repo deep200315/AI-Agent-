@@ -3,7 +3,7 @@
 
 A powerful web content analyzer that scrapes any webpage, summarizes the key insights, and uses agentic reasoning to generate deeper analysis using LangChain agents and LLMs from OpenRouter. Built with Gradio UI.
 
-![Screenshot]([https://i.imgur.com/x5n8B4I.png](https://github.com/deep200315/AI-Agent-/blob/main/Screenshot%202025-04-10%20201937.png))
+![Screenshot]([Screenshot 2025-04-10 201937.png))
 ---
 
 ## 🚀 Features
