@@ -8,9 +8,8 @@ from langchain.agents import initialize_agent, AgentExecutor
 from langchain_community.tools.tavily_search import TavilySearchResults
 from validators import url as validate_url
 
-os.environ["OPENROUTER_API_KEY"] = "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"
-os.environ["TAVILY_API_KEY"] = "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"
-
+os.environ["OPENROUTER_API_KEY"]
+os.environ["TAVILY_API_KEY"]
 llm_chat = ChatOpenAI(
     model="mistralai/mixtral-8x7b-instruct", 
     base_url="https://openrouter.ai/api/v1", 
